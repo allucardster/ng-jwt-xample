@@ -31,6 +31,13 @@ From the command-line:
 
 Then navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files ;).
 
+Additional Notes
+================
+
+This Angular4 example was peformed using the following post:
+
+https://blog.eleven-labs.com/fr/angular2-symfony3-comment-creer-rapidement-systeme-dauthentification/
+
 Contributors
 ============
 
