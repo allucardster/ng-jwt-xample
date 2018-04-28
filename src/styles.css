@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    padding-top: 50px;
+}
+
+.loading {
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+.logo {
+    margin: 5px;
+}

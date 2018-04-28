@@ -1,28 +1,37 @@
-# NgJwtXample
+Ng-JWT-xample
+=============
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+This is just an small Angular 4 example in order to ilustrate how to authenticate using JWT. This depends from API server contained in the [JWT-xample repository](https://github.com/allucardster/jwt-xample)
 
-## Development server
+Requirements
+============
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- npm >= 3.10.10
+- [Angular CLI](https://github.com/angular/angular-cli) >= 1.2.0.
 
-## Code scaffolding
+Instalation
+===========
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+- Clone this repository
+- From the command-line:
 
-## Build
+```
+:~$ cd ng-jwt-xample
+:~$ npm install
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+How to run it?
+==============
 
-## Running unit tests
+From the command-line:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+:~$ ng serve
+```
 
-## Running end-to-end tests
+Then navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files ;).
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+Contributors
+============
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Richard Melo [Twitter](https://twitter.com/allucardster), [Linkedin](https://www.linkedin.com/in/richardmelo)
